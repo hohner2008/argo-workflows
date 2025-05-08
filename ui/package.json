@@ -30,12 +30,12 @@
         "prop-types": "^15.8.1",
         "react": "^16.14.0",
         "react-chartjs-2": "^2.11.2",
-        "react-datepicker": "^4.23.0",
+        "react-datepicker": "^6.0.0",
         "react-dom": "^16.14.0",
         "react-monaco-editor": "^0.50.1",
-        "react-router-dom": "^4.2.2",
-        "superagent": "^8.1.2",
-        "swagger-ui-react": "^4.19.1"
+        "react-router-dom": "^6.0.0",
+        "superagent": "^10.2.1",
+        "swagger-ui-react": "^5.11.0"
     },
     "devDependencies": {
         "@babel/core": "^7.22.11",
